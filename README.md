@@ -1,7 +1,7 @@
 # ADDS2012Addendum
 Microsoft.Windows.Server.AD.2012.Monitoring.Addendum 1.0.4.5
 
-Download here
+Download [here](https://github.com/theKevinJustin/ADDS2012Addendum/blob/main/Microsoft.Windows.Server.AD.2012.Monitoring.Addendum.xml)
 
 ### Microsoft Windows Server ADDS 2012 Monitoring Addendum
 Management pack configures rules/monitors, disables noisy rules, adds alert cleanup, summary report, team report, on-demand tasks, component alert monitor to simplify when a DC is down, and lastly service recovery automation
